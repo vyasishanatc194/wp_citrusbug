@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('CodecPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('CodecPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

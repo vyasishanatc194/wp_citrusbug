@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="63px" viewBox="0 0 64 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 51</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Citrusbugminds_home1" transform="translate(-682.000000, -1807.000000)">
+            <g id="Group-51" transform="translate(683.000000, 1808.000000)">
+                <rect id="Rectangle-Copy-6" x="0" y="0" width="62" height="62"></rect>
+                <g id="Group" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.20384435">
+                    <g id="government-icon">
+                        <line x1="28.8336303" y1="8.22768558" x2="28.8336303" y2="15.9852177" id="Shape" stroke="#5DD9A5"></line>
+                        <rect id="Rectangle-path" stroke="#FFFFFF" x="12.672105" y="15.9852177" width="36.3634318" height="42.6664267"></rect>
+                        <path d="M28.8336303,0.470153462 L39.6079805,0.470153462 C40.3517941,0.470153462 40.9547742,1.04901437 40.9547742,1.76307548 L40.9547742,6.93476356 C40.9547742,7.64882468 40.3517941,8.22768558 39.6079805,8.22768558 L28.8336303,8.22768558 L28.8336303,0.470153462 Z" id="Shape" stroke="#5DD9A5"></path>
+                        <line x1="8.63172372" y1="15.9852177" x2="12.672105" y2="15.9852177" id="Shape" stroke="#FFFFFF"></line>
+                        <line x1="53.0759182" y1="15.9852177" x2="49.0355369" y2="15.9852177" id="Shape" stroke="#FFFFFF"></line>
+                        <line x1="0.550961088" y1="31.500282" x2="12.672105" y2="31.500282" id="Shape" stroke="#FFFFFF"></line>
+                        <line x1="49.0355369" y1="31.500282" x2="61.1566808" y2="31.500282" id="Shape" stroke="#FFFFFF"></line>
+                        <line x1="0.550961088" y1="43.1365801" x2="61.1566808" y2="43.1365801" id="Shape" stroke="#FFFFFF"></line>
+                        <polyline id="Shape" stroke="#FFFFFF" points="12.672105 58.6516444 4.5913424 58.6516444 4.5913424 31.500282 12.672105 31.500282"></polyline>
+                        <polyline id="Shape" stroke="#FFFFFF" points="49.0355369 58.6516444 57.1162995 58.6516444 57.1162995 31.500282 49.0355369 31.500282"></polyline>
+                        <line x1="0.550961088" y1="58.6516444" x2="4.5913424" y2="58.6516444" id="Shape" stroke="#FFFFFF"></line>
+                        <line x1="57.1162995" y1="58.6516444" x2="61.1566808" y2="58.6516444" id="Shape" stroke="#FFFFFF"></line>
+                        <line x1="24.793249" y1="23.7427498" x2="24.793249" y2="25.6821329" id="Shape" stroke="#FFFFFF"></line>
+                        <line x1="24.793249" y1="33.439665" x2="24.793249" y2="35.379048" id="Shape" stroke="#FFFFFF"></line>
+                        <line x1="36.9143929" y1="23.7427498" x2="36.9143929" y2="25.6821329" id="Shape" stroke="#FFFFFF"></line>
+                        <line x1="36.9143929" y1="33.439665" x2="36.9143929" y2="35.379048" id="Shape" stroke="#FFFFFF"></line>
+                        <line x1="24.793249" y1="48.9547292" x2="24.793249" y2="50.8941123" id="Shape" stroke="#FFFFFF"></line>
+                        <line x1="36.9143929" y1="48.9547292" x2="36.9143929" y2="50.8941123" id="Shape" stroke="#FFFFFF"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

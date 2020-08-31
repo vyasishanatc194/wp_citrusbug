@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="62px" viewBox="0 0 64 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 52</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Citrusbugminds_home1" transform="translate(-431.000000, -1808.000000)">
+            <g id="Group-52" transform="translate(432.000000, 1808.000000)">
+                <rect id="Rectangle-Copy-6" x="0" y="0" width="62" height="62"></rect>
+                <g id="Group" transform="translate(31.000000, 31.000000) scale(-1, 1) translate(-31.000000, -31.000000) translate(0.000000, 10.000000)" stroke-linecap="round" stroke-width="2.20384435">
+                    <g id="logistics-icon" transform="translate(0.000000, -0.000000)">
+                        <path d="M22.7730583,37.6266109 L22.7730583,8.65412051 L7.95832683,8.65412051 C3.57923481,8.97828262 0.273450911,12.8572645 0.550961088,17.3458676 L0.550961088,34.7293619 C0.458472579,36.2258966 1.56092485,37.5190355 3.02098086,37.6266109 L8.63172372,37.6266109" id="Shape" stroke="#FFFFFF" stroke-linejoin="round"></path>
+                        <path d="M0.550961088,21.0709021 L12.3354066,21.0709021 C13.6167639,21.0908708 14.6716306,20.0436198 14.6922957,18.7310286 L14.6922957,8.65412051" id="Shape" stroke="#FFFFFF" stroke-linejoin="round"></path>
+                        <line x1="16.7124863" y1="37.6266109" x2="40.9547742" y2="37.6266109" id="Shape" stroke="#FFFFFF" stroke-linejoin="round"></line>
+                        <line x1="0.550961088" y1="29.3487565" x2="5.82231191" y2="29.3487565" id="Shape" stroke="#FFFFFF" stroke-linejoin="round"></line>
+                        <path d="M61.1566808,25.2098293 L22.7730583,25.2098293 L22.7730583,4.51519331 C22.7730583,2.22932694 24.5819986,0.376266109 26.8134396,0.376266109 L57.1162995,0.376266109 C59.3477405,0.376266109 61.1566808,2.22932694 61.1566808,4.51519331 L61.1566808,25.2098293 Z" id="Shape" stroke="#FFFFFF" stroke-linejoin="round"></path>
+                        <path d="M49.0355369,37.6266109 L57.1162995,37.6266109 C59.3477405,37.6266109 61.1566808,35.7735501 61.1566808,33.4876837 L61.1566808,25.2098293" id="Shape" stroke="#FFFFFF" stroke-linejoin="round"></path>
+                        <ellipse id="Oval" stroke="#FFFFFF" stroke-linejoin="round" cx="12.672105" cy="37.6266109" rx="4.04038131" ry="4.1389272"></ellipse>
+                        <ellipse id="Oval" stroke="#FFFFFF" stroke-linejoin="round" cx="44.9951555" cy="37.6266109" rx="4.04038131" ry="4.1389272"></ellipse>
+                        <line x1="50.6884201" y1="14.2981121" x2="35.9961244" y2="14.2981121" id="Line" stroke="#5DD9A5"></line>
+                        <polyline id="Path-3" stroke="#5DD9A5" points="36.7443698 10.5354511 33.8059106 14.7370791 36.7443698 18.0607732"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

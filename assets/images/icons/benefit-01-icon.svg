@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="127px" height="127px" viewBox="0 0 127 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>benefit-01-icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Citrusbugminds_Use_Case" transform="translate(-275.000000, -4770.000000)">
+            <g id="Group-2" transform="translate(171.000000, 4770.000000)">
+                <g id="Group-20" transform="translate(104.000000, 0.000000)">
+                    <g id="benefit-01-icon">
+                        <rect id="Rectangle" x="0" y="0" width="127" height="127"></rect>
+                        <g id="Group-27" transform="translate(2.000000, 3.000000)" stroke-linecap="round" stroke-linejoin="round">
+                            <polyline id="Stroke-1" stroke="#FFFFFF" stroke-width="2" points="110.607143 8.77388393 110.607143 24.5529018 94.9821429 24.5529018"></polyline>
+                            <g id="Group-26">
+                                <path d="M1.23214286,60.2678571 C1.23214286,26.9821429 28.2142857,0 61.5,0 C81.265625,0 98.8080357,9.515625 109.799107,24.2142857" id="Stroke-2" stroke="#FFFFFF" stroke-width="1.86919691"></path>
+                                <line x1="1.23214286" y1="60.2678571" x2="1.23214286" y2="60.2678571" id="Stroke-4" stroke="#505070" stroke-width="2"></line>
+                                <path d="M1.89799107,69.2553571 C6.23727679,98.2776786 31.2685268,120.536607 61.5006696,120.536607 C93.2707589,120.536607 119.297545,95.9540179 121.601116,64.7732143" id="Stroke-6" stroke="#FFFFFF" stroke-width="1.86919691" stroke-dasharray="0,4.927203271241315"></path>
+                                <line x1="121.767857" y1="60.2678571" x2="121.767857" y2="60.2678571" id="Stroke-8" stroke="#505070" stroke-width="2"></line>
+                                <path d="M101.678571,60.2678571 C101.678571,82.4575893 83.6897321,100.446429 61.5,100.446429 C39.3102679,100.446429 21.3214286,82.4575893 21.3214286,60.2678571 C21.3214286,38.078125 39.3102679,20.0892857 61.5,20.0892857 C83.6897321,20.0892857 101.678571,38.078125 101.678571,60.2678571 Z" id="Stroke-10" stroke="#FFFFFF" stroke-width="1.86919691"></path>
+                                <line x1="61.5" y1="29.0178571" x2="61.5" y2="29.0178571" id="Stroke-12" stroke="#505070" stroke-width="2"></line>
+                                <line x1="61.5" y1="91.5178571" x2="61.5" y2="91.5178571" id="Stroke-14" stroke="#505070" stroke-width="2"></line>
+                                <line x1="92.75" y1="60.2678571" x2="92.75" y2="60.2678571" id="Stroke-16" stroke="#505070" stroke-width="2"></line>
+                                <line x1="30.25" y1="60.2678571" x2="30.25" y2="60.2678571" id="Stroke-18" stroke="#505070" stroke-width="2"></line>
+                                <path d="M65.9642857,60.2678571 C65.9642857,62.7321429 63.9642857,64.7321429 61.5,64.7321429 C59.0357143,64.7321429 57.0357143,62.7321429 57.0357143,60.2678571 C57.0357143,57.8035714 59.0357143,55.8035714 61.5,55.8035714 C63.9642857,55.8035714 65.9642857,57.8035714 65.9642857,60.2678571 Z" id="Stroke-20" stroke="#5DD9A5" stroke-width="1.86919691"></path>
+                                <line x1="61.5" y1="37.9464286" x2="61.5" y2="55.8035714" id="Stroke-22" stroke="#5DD9A5" stroke-width="1.86919691"></line>
+                                <line x1="79.3571429" y1="60.2678571" x2="65.9642857" y2="60.2678571" id="Stroke-24" stroke="#5DD9A5" stroke-width="1.86919691"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

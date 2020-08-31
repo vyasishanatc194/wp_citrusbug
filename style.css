@@ -1,0 +1,11 @@
+/*
+* Theme Name:   Citrusbug Creative
+* Template:     twentytwenty
+*/
+
+.timeline-process-custom-root .timeline-process .timeline__item:after {
+	cursor: unset;
+}
+.general-blog-card-box .general-blog-card-body h3 {
+	min-height: 88px;
+}

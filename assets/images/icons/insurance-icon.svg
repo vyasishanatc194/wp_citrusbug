@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>insurance-icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Citrusbugminds_home1" transform="translate(-1435.000000, -1807.000000)">
+            <g id="insurance-icon" transform="translate(1436.000000, 1808.000000)">
+                <g id="Regular" transform="translate(0.000000, -0.000000)" stroke-linecap="round" stroke-width="2.20384435">
+                    <path d="M61.1566808,34.8942023 C61.1566808,18.1583949 47.5896283,4.5913424 30.8538209,4.5913424 C14.1180136,4.5913424 0.550961088,18.1583949 0.550961088,34.8942023 L2.73546059,33.0733371 C5.352608,30.8925539 8.73724588,29.8567153 12.126633,30.1992517 C15.5160201,30.541788 18.6249696,32.2338779 20.7528677,34.8942023 C23.4306491,32.2130822 27.0645046,30.7065637 30.8538209,30.7065637 C34.6431373,30.7065637 38.2769928,32.2130822 40.9547742,34.8942023 C43.0826723,32.2338779 46.1916218,30.541788 49.5810089,30.1992517 C52.970396,29.8567153 56.3550339,30.8925539 58.9721813,33.0733371 L61.1566808,34.8942023 Z" id="Shape" stroke="#FFFFFF" stroke-linejoin="round"></path>
+                    <path d="M30.8538209,30.7110608 L30.8538209,57.1082187 C30.8538209,59.3396597 29.0448806,61.1486 26.8134396,61.1486 C24.5819986,61.1486 22.7730583,59.3396597 22.7730583,57.1082187" id="Shape" stroke="#FFFFFF" stroke-linejoin="round"></path>
+                    <line x1="30.8538209" y1="4.5913424" x2="30.8538209" y2="0.550961088" id="Shape" stroke="#FFFFFF" stroke-linejoin="round"></line>
+                    <path d="M27.9153618,9.42086069 C23.0179299,13.3404598 20.569214,19.2173781 20.569214,27.0516155" id="Path-2" stroke="#5DD9A5"></path>
+                    <path d="M41.1384279,9.42086069 C36.240996,13.3404598 33.7922801,19.2173781 33.7922801,27.0516155" id="Path-2-Copy" stroke="#5DD9A5" transform="translate(37.465354, 18.236238) scale(-1, 1) translate(-37.465354, -18.236238) "></path>
+                </g>
+                <rect id="Rectangle-Copy-7" x="0" y="0" width="62" height="62"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
